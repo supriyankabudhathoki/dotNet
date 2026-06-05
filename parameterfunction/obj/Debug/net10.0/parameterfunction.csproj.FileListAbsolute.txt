@@ -1,0 +1,14 @@
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\bin\Debug\net10.0\parameterfunction.exe
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\bin\Debug\net10.0\parameterfunction.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\bin\Debug\net10.0\parameterfunction.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\bin\Debug\net10.0\parameterfunction.dll
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\bin\Debug\net10.0\parameterfunction.pdb
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\parameterfunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\parameterfunction.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\parameterfunction.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\parameterfunction.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\parameterfunction.dll
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\refint\parameterfunction.dll
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\parameterfunction.pdb
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\parameterfunction.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\parameterfunction\obj\Debug\net10.0\ref\parameterfunction.dll

@@ -1,0 +1,14 @@
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\bin\Debug\net10.0\addingtwonums.exe
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\bin\Debug\net10.0\addingtwonums.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\bin\Debug\net10.0\addingtwonums.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\bin\Debug\net10.0\addingtwonums.dll
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\bin\Debug\net10.0\addingtwonums.pdb
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\addingtwonums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\addingtwonums.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\addingtwonums.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\addingtwonums.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\addingtwonums.dll
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\refint\addingtwonums.dll
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\addingtwonums.pdb
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\addingtwonums.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\addingtwonums\obj\Debug\net10.0\ref\addingtwonums.dll

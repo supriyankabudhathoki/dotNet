@@ -1,0 +1,14 @@
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\bin\Debug\net10.0\userinputstring.exe
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\bin\Debug\net10.0\userinputstring.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\bin\Debug\net10.0\userinputstring.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\bin\Debug\net10.0\userinputstring.dll
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\bin\Debug\net10.0\userinputstring.pdb
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\userinputstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\userinputstring.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\userinputstring.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\userinputstring.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\userinputstring.dll
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\refint\userinputstring.dll
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\userinputstring.pdb
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\userinputstring.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\userinputstring\obj\Debug\net10.0\ref\userinputstring.dll

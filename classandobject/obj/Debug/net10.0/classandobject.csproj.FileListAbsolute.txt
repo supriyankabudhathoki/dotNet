@@ -1,0 +1,14 @@
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\bin\Debug\net10.0\classandobject.exe
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\bin\Debug\net10.0\classandobject.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\bin\Debug\net10.0\classandobject.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\bin\Debug\net10.0\classandobject.dll
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\bin\Debug\net10.0\classandobject.pdb
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\classandobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\classandobject.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\classandobject.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\classandobject.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\classandobject.dll
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\refint\classandobject.dll
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\classandobject.pdb
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\classandobject.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\classandobject\obj\Debug\net10.0\ref\classandobject.dll

@@ -1,0 +1,14 @@
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\bin\Debug\net10.0\multiplicationofinput.exe
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\bin\Debug\net10.0\multiplicationofinput.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\bin\Debug\net10.0\multiplicationofinput.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\bin\Debug\net10.0\multiplicationofinput.dll
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\bin\Debug\net10.0\multiplicationofinput.pdb
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\multiplicationofinput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\multiplicationofinput.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\multiplicationofinput.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\multiplicationofinput.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\multiplicationofinput.dll
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\refint\multiplicationofinput.dll
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\multiplicationofinput.pdb
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\multiplicationofinput.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\multiplicationofinput\obj\Debug\net10.0\ref\multiplicationofinput.dll

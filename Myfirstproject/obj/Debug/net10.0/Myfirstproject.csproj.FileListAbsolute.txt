@@ -1,0 +1,14 @@
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\bin\Debug\net10.0\Myfirstproject.exe
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\bin\Debug\net10.0\Myfirstproject.deps.json
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\bin\Debug\net10.0\Myfirstproject.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\bin\Debug\net10.0\Myfirstproject.dll
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\bin\Debug\net10.0\Myfirstproject.pdb
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\Myfirstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\Myfirstproject.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\Myfirstproject.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\Myfirstproject.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\Myfirstproject.dll
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\refint\Myfirstproject.dll
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\Myfirstproject.pdb
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\Myfirstproject.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\.NetCore\Myfirstproject\obj\Debug\net10.0\ref\Myfirstproject.dll

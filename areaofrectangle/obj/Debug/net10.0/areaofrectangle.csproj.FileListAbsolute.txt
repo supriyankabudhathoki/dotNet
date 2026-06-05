@@ -1,0 +1,14 @@
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\bin\Debug\net10.0\areaofrectangle.exe
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\bin\Debug\net10.0\areaofrectangle.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\bin\Debug\net10.0\areaofrectangle.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\bin\Debug\net10.0\areaofrectangle.dll
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\bin\Debug\net10.0\areaofrectangle.pdb
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\areaofrectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\areaofrectangle.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\areaofrectangle.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\areaofrectangle.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\areaofrectangle.dll
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\refint\areaofrectangle.dll
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\areaofrectangle.pdb
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\areaofrectangle.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\areaofrectangle\obj\Debug\net10.0\ref\areaofrectangle.dll
