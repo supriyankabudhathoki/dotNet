@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\bin\Debug\net10.0\c_calculator.exe
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\bin\Debug\net10.0\c_calculator.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\bin\Debug\net10.0\c_calculator.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\bin\Debug\net10.0\c_calculator.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\bin\Debug\net10.0\c_calculator.pdb
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\refint\c_calculator.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.pdb
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\c_calculator.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\c_calculator\obj\Debug\net10.0\ref\c_calculator.dll

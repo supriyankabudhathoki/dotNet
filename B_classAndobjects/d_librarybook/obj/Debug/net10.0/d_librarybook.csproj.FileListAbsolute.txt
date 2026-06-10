@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\bin\Debug\net10.0\d_librarybook.exe
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\bin\Debug\net10.0\d_librarybook.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\bin\Debug\net10.0\d_librarybook.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\bin\Debug\net10.0\d_librarybook.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\bin\Debug\net10.0\d_librarybook.pdb
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\refint\d_librarybook.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.pdb
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\d_librarybook.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\d_librarybook\obj\Debug\net10.0\ref\d_librarybook.dll

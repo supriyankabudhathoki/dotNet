@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\bin\Debug\net10.0\b_bankactivity.exe
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\bin\Debug\net10.0\b_bankactivity.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\bin\Debug\net10.0\b_bankactivity.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\bin\Debug\net10.0\b_bankactivity.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\bin\Debug\net10.0\b_bankactivity.pdb
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\refint\b_bankactivity.dll
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.pdb
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\b_bankactivity.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\B_classAndobjects\b_bankactivity\obj\Debug\net10.0\ref\b_bankactivity.dll
