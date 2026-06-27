@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("areaofrectangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f4c67d9e248d6f372f3f34a2e60cd49b2ec464")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3685b19e89ec507d470e613bf4ab5970af2b1c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("areaofrectangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("areaofrectangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\bin\Debug\net10.0\Todo_app.exe
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\bin\Debug\net10.0\Todo_app.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\bin\Debug\net10.0\Todo_app.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\bin\Debug\net10.0\Todo_app.dll
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\bin\Debug\net10.0\Todo_app.pdb
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.dll
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\refint\Todo_app.dll
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.pdb
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\Todo_app.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\Projects\Todo_app\obj\Debug\net10.0\ref\Todo_app.dll
