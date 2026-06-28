@@ -28,7 +28,7 @@ class Student
  static void Main(string[] args)
  {
    Student s1 = new Student();
-   s1.input(2,3,4);
+   s1.input(12,3,60);
    s1.output();
    s1.simpleInt();
    

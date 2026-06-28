@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("simpleinterest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a33ccbe38cde1e0cf7464b8132ea6e3511fa29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c2918078c8197023373347105dfdc30f44899d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("simpleinterest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("simpleinterest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
