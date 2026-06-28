@@ -22,7 +22,7 @@ using System.Collections.Generic;
 
                 if (choice == "1")
                 {
-                    Console.Write("Enter task: ");
+                    Console.Write("Enter the work you want to add in the todo list pleaseeeeee : ");
                     string newTask = Console.ReadLine();
                     tasks.Add(newTask);
                     isDone.Add(false);
@@ -72,13 +72,13 @@ using System.Collections.Generic;
                     }
                     else
                     {
-                        Console.WriteLine("Invalid task number!");
+                        Console.WriteLine("Invalid task number please enter the valid data only !");
                     }
                 }
                 else if (choice == "5")
                 {
                     running = false;
-                    Console.WriteLine("Goodbye!");
+                    Console.WriteLine("not good bye but bye like always!");
                 }
                 else
                 {
