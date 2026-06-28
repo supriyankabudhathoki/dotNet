@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multiplicationofinput")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3685b19e89ec507d470e613bf4ab5970af2b1c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a33ccbe38cde1e0cf7464b8132ea6e3511fa29")]
 [assembly: System.Reflection.AssemblyProductAttribute("multiplicationofinput")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multiplicationofinput")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

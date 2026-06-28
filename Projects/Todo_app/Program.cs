@@ -9,7 +9,6 @@ using System.Collections.Generic;
             List<string> tasks = new List<string>();
             List<bool> isDone = new List<bool>();
             bool running = true;
-
             while (running)
             {
                 Console.WriteLine("\nTO-DO APP ");
