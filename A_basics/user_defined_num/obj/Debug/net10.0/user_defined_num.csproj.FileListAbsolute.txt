@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\bin\Debug\net10.0\user_defined_num.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\bin\Debug\net10.0\user_defined_num.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\bin\Debug\net10.0\user_defined_num.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\bin\Debug\net10.0\user_defined_num.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\bin\Debug\net10.0\user_defined_num.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\refint\user_defined_num.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\user_defined_num.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\user_defined_num\obj\Debug\net10.0\ref\user_defined_num.dll
