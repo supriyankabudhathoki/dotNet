@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj": {}
+    "C:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj": {
+    "C:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj",
+        "projectUniqueName": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj",
         "projectName": "type_conversion",
-        "projectPath": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj",
+        "projectPath": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\type_conversion.csproj",
         "packagesPath": "C:\\Users\\Supriyanka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\obj\\",
+        "outputPath": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\A_basics\\type_conversion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Supriyanka\\AppData\\Roaming\\NuGet\\NuGet.Config"

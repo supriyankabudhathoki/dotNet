@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\bin\Debug\net10.0\structure.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\bin\Debug\net10.0\structure.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\bin\Debug\net10.0\structure.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\bin\Debug\net10.0\structure.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\bin\Debug\net10.0\structure.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\refint\structure.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\structure.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\structure\obj\Debug\net10.0\ref\structure.dll
