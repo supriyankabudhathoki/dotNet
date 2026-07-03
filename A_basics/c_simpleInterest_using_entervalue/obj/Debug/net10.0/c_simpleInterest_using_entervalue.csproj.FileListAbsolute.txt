@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\bin\Debug\net10.0\c_simpleInterest_using_entervalue.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\bin\Debug\net10.0\c_simpleInterest_using_entervalue.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\bin\Debug\net10.0\c_simpleInterest_using_entervalue.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\bin\Debug\net10.0\c_simpleInterest_using_entervalue.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\bin\Debug\net10.0\c_simpleInterest_using_entervalue.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\refint\c_simpleInterest_using_entervalue.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\c_simpleInterest_using_entervalue.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_simpleInterest_using_entervalue\obj\Debug\net10.0\ref\c_simpleInterest_using_entervalue.dll

@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\bin\Debug\net10.0\add_two_user_input_name.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\bin\Debug\net10.0\add_two_user_input_name.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\bin\Debug\net10.0\add_two_user_input_name.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\bin\Debug\net10.0\add_two_user_input_name.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\bin\Debug\net10.0\add_two_user_input_name.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\refint\add_two_user_input_name.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\add_two_user_input_name.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\add_two_user_input_name\obj\Debug\net10.0\ref\add_two_user_input_name.dll

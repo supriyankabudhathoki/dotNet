@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\bin\Debug\net10.0\b_simple_interest.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\bin\Debug\net10.0\b_simple_interest.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\bin\Debug\net10.0\b_simple_interest.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\bin\Debug\net10.0\b_simple_interest.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\bin\Debug\net10.0\b_simple_interest.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\refint\b_simple_interest.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\b_simple_interest.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\b_simple_interest\obj\Debug\net10.0\ref\b_simple_interest.dll

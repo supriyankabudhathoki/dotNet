@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\bin\Debug\net10.0\arraya_example.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\bin\Debug\net10.0\arraya_example.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\bin\Debug\net10.0\arraya_example.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\bin\Debug\net10.0\arraya_example.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\bin\Debug\net10.0\arraya_example.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\refint\arraya_example.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\arraya_example.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\arraya_example\obj\Debug\net10.0\ref\arraya_example.dll

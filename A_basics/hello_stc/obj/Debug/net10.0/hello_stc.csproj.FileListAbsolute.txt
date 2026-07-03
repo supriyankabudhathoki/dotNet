@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\bin\Debug\net10.0\hello_stc.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\bin\Debug\net10.0\hello_stc.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\bin\Debug\net10.0\hello_stc.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\bin\Debug\net10.0\hello_stc.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\bin\Debug\net10.0\hello_stc.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\refint\hello_stc.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\hello_stc.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\hello_stc\obj\Debug\net10.0\ref\hello_stc.dll

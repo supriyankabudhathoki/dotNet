@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\bin\Debug\net10.0\c_class_n_onj.exe
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\bin\Debug\net10.0\c_class_n_onj.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\bin\Debug\net10.0\c_class_n_onj.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\bin\Debug\net10.0\c_class_n_onj.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\bin\Debug\net10.0\c_class_n_onj.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\refint\c_class_n_onj.dll
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.pdb
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\c_class_n_onj.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\A_basics\c_class_n_onj\obj\Debug\net10.0\ref\c_class_n_onj.dll
