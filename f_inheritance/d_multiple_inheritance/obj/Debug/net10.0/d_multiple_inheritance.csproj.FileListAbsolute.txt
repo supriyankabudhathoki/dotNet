@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\bin\Debug\net10.0\d_multiple_inheritance.exe
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\bin\Debug\net10.0\d_multiple_inheritance.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\bin\Debug\net10.0\d_multiple_inheritance.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\bin\Debug\net10.0\d_multiple_inheritance.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\bin\Debug\net10.0\d_multiple_inheritance.pdb
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\refint\d_multiple_inheritance.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.pdb
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\d_multiple_inheritance.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\d_multiple_inheritance\obj\Debug\net10.0\ref\d_multiple_inheritance.dll
