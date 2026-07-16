@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\bin\Debug\net10.0\a_interface.exe
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\bin\Debug\net10.0\a_interface.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\bin\Debug\net10.0\a_interface.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\bin\Debug\net10.0\a_interface.dll
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\bin\Debug\net10.0\a_interface.pdb
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.dll
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\refint\a_interface.dll
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.pdb
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\a_interface.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\E_Interface\a_interface\obj\Debug\net10.0\ref\a_interface.dll
