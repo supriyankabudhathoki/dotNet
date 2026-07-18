@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj": {}
+    "C:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj": {
+    "C:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj",
         "projectName": "c_multiple_inheritance",
-        "projectPath": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj",
+        "projectPath": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\c_multiple_inheritance.csproj",
         "packagesPath": "C:\\Users\\Supriyanka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\obj\\",
+        "outputPath": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\E_Interface\\c_multiple_inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Supriyanka\\AppData\\Roaming\\NuGet\\NuGet.Config"
