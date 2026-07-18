@@ -1,0 +1,23 @@
+﻿namespace a_struct;
+
+
+
+struct Student
+{
+    public int roll;
+
+    public void displayRoll(int roll)
+    {
+        Console.WriteLine("Roll no = "+ roll);
+    }
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+        Student s1;
+        s1.roll = 89;
+        s1.displayRoll(s1.roll);
+        Console.WriteLine("Hello, World!");
+    }
+}
