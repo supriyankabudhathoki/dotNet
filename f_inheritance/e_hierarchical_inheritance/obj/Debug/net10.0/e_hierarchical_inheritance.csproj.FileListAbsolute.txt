@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\bin\Debug\net10.0\e_hierarchical_inheritance.exe
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\bin\Debug\net10.0\e_hierarchical_inheritance.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\bin\Debug\net10.0\e_hierarchical_inheritance.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\bin\Debug\net10.0\e_hierarchical_inheritance.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\bin\Debug\net10.0\e_hierarchical_inheritance.pdb
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\refint\e_hierarchical_inheritance.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.pdb
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\e_hierarchical_inheritance.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\e_hierarchical_inheritance\obj\Debug\net10.0\ref\e_hierarchical_inheritance.dll

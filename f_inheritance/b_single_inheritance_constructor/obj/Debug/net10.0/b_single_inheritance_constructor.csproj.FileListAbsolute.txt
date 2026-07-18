@@ -1,0 +1,15 @@
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\bin\Debug\net10.0\b_single_inheritance_constructor.exe
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\bin\Debug\net10.0\b_single_inheritance_constructor.deps.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\bin\Debug\net10.0\b_single_inheritance_constructor.runtimeconfig.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\bin\Debug\net10.0\b_single_inheritance_constructor.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\bin\Debug\net10.0\b_single_inheritance_constructor.pdb
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.AssemblyInfoInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.AssemblyInfo.cs
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.csproj.CoreCompileInputs.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.sourcelink.json
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\refint\b_single_inheritance_constructor.dll
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.pdb
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\b_single_inheritance_constructor.genruntimeconfig.cache
+C:\Users\Supriyanka\Desktop\B6VP\f_inheritance\b_single_inheritance_constructor\obj\Debug\net10.0\ref\b_single_inheritance_constructor.dll

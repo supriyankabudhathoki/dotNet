@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\d_multiple_inheritance\\d_multiple_inheritance.csproj": {}
+    "c:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\d_multiple_inheritance\\d_multiple_inheritance.csproj": {
+    "c:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\d_multiple_inheritance\\d_multiple_inheritance.csproj",
-        "projectName": "d_multiple_inheritance",
-        "projectPath": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\d_multiple_inheritance\\d_multiple_inheritance.csproj",
+        "projectUniqueName": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj",
+        "projectName": "b_single_inheritance_constructor",
+        "projectPath": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\b_single_inheritance_constructor\\b_single_inheritance_constructor.csproj",
         "packagesPath": "C:\\Users\\Supriyanka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\d_multiple_inheritance\\obj\\",
+        "outputPath": "c:\\Users\\Supriyanka\\Desktop\\B6VP\\f_inheritance\\b_single_inheritance_constructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Supriyanka\\AppData\\Roaming\\NuGet\\NuGet.Config"
