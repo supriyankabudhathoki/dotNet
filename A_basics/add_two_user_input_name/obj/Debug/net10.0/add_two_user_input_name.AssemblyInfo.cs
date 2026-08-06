@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("add_two_user_input_name")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a26a16a85b62fd5de7369f69d1cd8fb22ca81f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e103c0ed7bdbd3140f1745f6fc213290cf97f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("add_two_user_input_name")]
 [assembly: System.Reflection.AssemblyTitleAttribute("add_two_user_input_name")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

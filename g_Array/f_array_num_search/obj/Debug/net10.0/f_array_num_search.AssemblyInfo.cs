@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("f_array_num_search")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39524e53e8cdde4257676372790af20db0a0cb19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e103c0ed7bdbd3140f1745f6fc213290cf97f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("f_array_num_search")]
 [assembly: System.Reflection.AssemblyTitleAttribute("f_array_num_search")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

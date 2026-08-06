@@ -1,0 +1,6 @@
+# Ignore build output folders in every subproject
+**/bin/
+**/obj/
+
+# Ignore project files in every subproject
+**/*.csproj

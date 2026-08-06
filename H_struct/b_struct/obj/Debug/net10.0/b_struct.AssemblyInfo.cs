@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("b_struct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2134367134cceee399fdea1efc3742d3bb5f3ff5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e103c0ed7bdbd3140f1745f6fc213290cf97f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("b_struct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("b_struct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

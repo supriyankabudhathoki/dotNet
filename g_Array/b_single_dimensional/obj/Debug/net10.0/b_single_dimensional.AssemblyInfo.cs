@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("b_single_dimensional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39524e53e8cdde4257676372790af20db0a0cb19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e103c0ed7bdbd3140f1745f6fc213290cf97f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("b_single_dimensional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("b_single_dimensional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
